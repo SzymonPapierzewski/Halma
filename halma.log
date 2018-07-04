@@ -14,4 +14,11 @@
   2018-02-27 02:22:46,580 [AWT-EventQueue-0] INFO  (MyMenuBar.java:70) - Language was changed to English
   2018-02-27 02:22:49,434 [AWT-EventQueue-0] INFO  (MyMenuBar.java:60) - Language was changed to Polish
   2018-02-27 02:30:43,988 [main] INFO  (App.java:26) - Halma - Start
+  2018-07-04 15:54:26,335 [main] INFO  (App.java:26) - Halma - Start
+  2018-07-04 15:54:39,289 [AWT-EventQueue-0] INFO  (BoardHandler.java:28) - Player: qwe marked field [2,3]
+  2018-07-04 15:54:39,830 [AWT-EventQueue-0] INFO  (BoardHandler.java:41) - Player: qwe moved his ball from field [2,3] to field [3,4]
+  2018-07-04 15:54:40,831 [AWT-EventQueue-0] INFO  (BoardHandler.java:28) - Player: dsa marked field [13,14]
+  2018-07-04 15:54:41,337 [AWT-EventQueue-0] INFO  (BoardHandler.java:41) - Player: dsa moved his ball from field [11,12] to field [11,12]
+  2018-07-04 15:54:44,005 [AWT-EventQueue-0] INFO  (BoardHandler.java:28) - Player: qwe marked field [0,4]
+  2018-07-04 15:54:45,257 [AWT-EventQueue-0] INFO  (BoardHandler.java:41) - Player: qwe moved his ball from field [2,4] to field [2,4]
   
