@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="backButton">Wstecz</entry>
+    <entry key="blue">niebieska</entry>
+    <entry key="board">Plansza</entry>
+    <entry key="chooseYourBallText">Wybierz kolor swojej kulki:</entry>
+    <entry key="color">Kolor</entry>
+    <entry key="colorLightGray">Szary</entry>
+    <entry key="exitButton">Wyjście</entry>
+    <entry key="fourPlayersJRadioButton">Czterech Graczy</entry>
+    <entry key="green">zielona</entry>
+    <entry key="hello">sdd</entry>
+    <entry key="language">Język</entry>
+    <entry key="languageEnglish">Angielski</entry>
+    <entry key="languagePolish">Polski</entry>
+    <entry key="layout1">Styl 1</entry>
+    <entry key="layout2">Styl 2</entry>
+    <entry key="layout3">Styl 3</entry>
+    <entry key="newGameButton">Nowa Gra</entry>
+    <entry key="newGamePanelTitle">Halma - Nowa Gra</entry>
+    <entry key="optionsButton">Opcje</entry>
+    <entry key="optionsPanelTitle">Halma - Opcje</entry>
+    <entry key="pass">Pass</entry>
+    <entry key="playButton">Graj</entry>
+    <entry key="playerNameText">Nazwa Gracza:</entry>
+    <entry key="red">czerwona</entry>
+    <entry key="scoreButton">Wyniki</entry>
+    <entry key="scorePanelTitle">Halma - Wyniki</entry>
+    <entry key="startingPanelTitle">Halma</entry>
+    <entry key="twoPlayersJRadioButton">Dwóch Graczy</entry>
+    <entry key="winStatement">Wygrał:</entry>
+    <entry key="wrongBallStatement">Każdy gracz powinien mieć inny kolor kulek.</entry>
+    <entry key="wrongPlayerNameStatement">Każdy gracz powinien mieć unikalną nazwę.</entry>
+    <entry key="yellow">żółta</entry>
+</properties>
