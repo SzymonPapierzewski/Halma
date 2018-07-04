@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="backButton">Back</entry>
+    <entry key="blue">blue</entry>
+    <entry key="board">Board</entry>
+    <entry key="chooseYourBallText">Choose your's ball colour:</entry>
+    <entry key="color">Color</entry>
+    <entry key="colorLightGray">Gray</entry>
+    <entry key="exitButton">Exit</entry>
+    <entry key="fourPlayersJRadioButton">Four Players</entry>
+    <entry key="green">green</entry>
+    <entry key="hello">qwe</entry>
+    <entry key="language">Language</entry>
+    <entry key="languageEnglish">English</entry>
+    <entry key="languagePolish">Polish</entry>
+    <entry key="layout1">Style 1</entry>
+    <entry key="layout2">Style 2</entry>
+    <entry key="layout3">Style 3</entry>
+    <entry key="newGameButton">New Game</entry>
+    <entry key="newGamePanelTitle">Halma - New Game</entry>
+    <entry key="optionsButton">Options</entry>
+    <entry key="optionsPanelTitle">Halma - Options</entry>
+    <entry key="pass">Pass</entry>
+    <entry key="playButton">Play</entry>
+    <entry key="playerNameText">Player Name:</entry>
+    <entry key="red">red</entry>
+    <entry key="scoreButton">Score</entry>
+    <entry key="scorePanelTitle">Halma - Scores</entry>
+    <entry key="startingPanelTitle">Halma</entry>
+    <entry key="twoPlayersJRadioButton">Two Players</entry>
+    <entry key="winStatement">Winner:</entry>
+    <entry key="wrongBallStatement">Each player should have different ball colour.</entry>
+    <entry key="wrongPlayerNameStatement">Each player should have unique name.</entry>
+    <entry key="yellow">yellow</entry>
+</properties>
